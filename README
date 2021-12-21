@@ -8,3 +8,7 @@ To enable maintenance page:
  ---
 
 The other staic pages here are hosted by CF. To update them, make changes here and then tell CF to cache them here: https://dash.cloudflare.com/54f1d4b60010ce87ddc839705183e1bc/gumball.fm/custom-pages
+
+ ---
+ 
+Heroku also uses these pages: https://devcenter.heroku.com/articles/error-pages#customize-pages
